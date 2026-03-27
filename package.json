@@ -1,0 +1,1 @@
+{\n  "name": "games-in-games",\n  "version": "1.0.0",\n  "dependencies": {\n    "react": "^18.0.0",\n    "expo": "^45.0.0",\n    "firebase": "^9.0.0",\n    "react-native-webrtc": "^1.94.0",\n    "@react-navigation/native": "^6.0.0",\n    "@react-navigation/native-stack": "^6.0.0"\n  }\n}
